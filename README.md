@@ -1,3 +1,6 @@
+Practiced in accordance with the example project available here https://github.com/dotnet-architecture/eShopOnBlazor
+for the 'Blazor for ASP.NET Web Forms Developers' book
+
 # eShopOnBlazor
 
 Migration of a traditional ASP.NET Web Forms app to Blazor.
